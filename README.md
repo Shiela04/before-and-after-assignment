@@ -6,30 +6,30 @@
 
 ## Methods Used in Number Modification
 
-### Check if Integer - built-in method isInteger
+- Check if Integer - built-in method isInteger
 
-### Check if NaN - built-in method isNaN
+- Check if NaN - built-in method isNaN
 
-### Convert to Integer - built-in method parseInt
+- Convert to Integer - built-in method parseInt
 
-### Decrement Number - operator --
+- Decrement Number - operator --
 
-### Exponential Notation - built-in method toExponential
+- Exponential Notation - built-in method toExponential
 
-### Floating-Point Precision - built-in method toPrecision
+- Floating-Point Precision - built-in method toPrecision
 
-### Increment Number - operator ++
+- Increment Number - operator ++
 
-### Locale-Specific String - built-in method toLocaleString
+- Locale-Specific String - built-in method toLocaleString
 
 ## Methods Used in String Modification
 
-### Concatenate - + operator to combine strings
+- Concatenate - + operator to combine strings
 
-### Extract Substring - built-in method substring
+- Extract Substring - built-in method substring
 
-### Find Index - built-in method indexOf
+- Find Index - built-in method indexOf
 
-### Get Length - built-in method length
+- Get Length - built-in method length
 
-### Replace - built-in method replace
+- Replace - built-in method replace
