@@ -1,5 +1,7 @@
-let number = 20.56;
-console.log("before:", number);
+// before
+let value = 20.56;
+console.log("before:", value);
 
-let integer = Number.isInteger(number);
-console.log("after:", integer);
+// used built-in method isInteger to determine if the value is a whole number
+let isValueInteger = Number.isInteger(value);
+console.log("after:", isValueInteger);
